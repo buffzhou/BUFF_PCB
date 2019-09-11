@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=key  NewDesignator=KEY
+Added Pin To Net: NetName=NRST Pin=U2-7
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetB_3
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetCO_2
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetSTLINK_2
+Change Net Name : Old Net Name=NetP2_3 New Net Name=NetSTLINK_3
+Added Room: Name=ADC
